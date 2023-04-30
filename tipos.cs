@@ -34,6 +34,6 @@ public class Tipos{
     pais = "Australia"; //erro
 
     //conversao de tipos
-    f = idade; // 
+    f = idade; //int para float
     f = (float) c; //decimal para float
 }
